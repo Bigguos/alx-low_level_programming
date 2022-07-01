@@ -6,7 +6,7 @@
  * main - Print if the number is greater, equal or lesser
  *
  * Return: (Success)
- *\
+ */
 int main(void)
 {
 int n;
