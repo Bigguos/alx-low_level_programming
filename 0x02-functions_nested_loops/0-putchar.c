@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+#include <main.h>
 /**
  *main - A program that prints _putchar
  *
@@ -8,11 +8,10 @@
 
 int main(void)
 {
-int n;
-for (n = '3';)
-if (n > 2)
-{
-printf("%d is _putchar\n", n);
-}
+char low;
+for (low = '_putchar;)
+putchar(low);
+putchar('\n');
+
 return (0);
 }
