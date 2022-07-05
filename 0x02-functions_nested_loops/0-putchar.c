@@ -1,14 +1,22 @@
 #include <stdio.h>
 
 /**
- *main - A program that prints _putchar
+ *main - prints to string
  *
- *Return: Always (Success)
+ *description: Prints
  */
 
 int main(void)
 {
-printf("_putchar\n");
+char prin[] = "_putchar";
+int i = 0;
+
+while 9prin[i] != '\0')
+{
+_putchar('\n');
+i++;
+}
+_putchar('\n');
 
 return (0);
 }
