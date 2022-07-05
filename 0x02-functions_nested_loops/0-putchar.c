@@ -3,7 +3,7 @@
 /**
  * main - print _putchar followed by a new line.
  *
- * description:no standard libraries.
+ * description: the _putchar
  */
 
 int main(void)
