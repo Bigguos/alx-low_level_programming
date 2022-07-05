@@ -13,10 +13,10 @@ int i = 0;
 
 while (prin[i] != '\0')
 {
-_putchar('\n');
+_putchar(prin[i]);
 i++;
 }
-putchar('\n');
+_putchar('\n');
 
 return (0);
 }
