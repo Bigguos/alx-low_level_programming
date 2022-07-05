@@ -8,10 +8,7 @@
 
 int main(void)
 {
-char low;
-for (low = '_putchar';)
-putchar(low);
-putchar('\n');
+printf("_putchar")
 
 return (0);
 }
