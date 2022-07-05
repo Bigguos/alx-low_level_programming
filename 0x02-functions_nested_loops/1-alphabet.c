@@ -1,10 +1,9 @@
-#include <stdio.h>
-#include <main.h>
 /**
  *main - print lowercase alphabet
  *
  *Return: Always (Sucess)
  */
+#include "main.h"
 void print_alphabet(void)
 {
 char low;
