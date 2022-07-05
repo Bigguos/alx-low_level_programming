@@ -16,7 +16,7 @@ while (prin[i] != '\0')
 _putchar('\n');
 i++;
 }
-_putchar('\n');
+putchar('\n');
 
 return (0);
 }
