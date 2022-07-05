@@ -9,7 +9,7 @@
 int main(void)
 {
 char low;
-for (low = '_putchar;)
+for (low = '_putchar';)
 putchar(low);
 putchar('\n');
 
