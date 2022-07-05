@@ -9,9 +9,8 @@
 int main(void)
 {
 int n;
-
-for (n = '3');
-if (n > 2);
+for (n = '3';)
+if (n > 2)
 {
 printf("%d is _putchar\n", n);
 }
