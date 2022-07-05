@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- *main - prints to string
+ *main - prints _putchar followed by a new line.
  *
- *description: Prints
+ *description:no standard libraries.
  */
 
 int main(void)
