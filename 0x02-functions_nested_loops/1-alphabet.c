@@ -5,7 +5,8 @@
  *
  *Return: Always (Sucess)
  */
-void print_alphabet(void);
+#include "main.h"
+void print_alphabet(void)
 
 {
 char low;
