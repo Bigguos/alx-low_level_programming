@@ -1,6 +1,4 @@
-include <stdio.h>
-
-
+#include <stdio.h>
 
 /**
  * main - Prints the sum of all natural numbers below 1024
