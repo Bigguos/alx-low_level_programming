@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 /**
- * print_to_98(int n)
+ * print_to_98 - Prints any number down to 98
  * @n: The integer to be checked
  *
  * Return: no return
- * */
+ */
 
 void print_to_98(int n)
 {
