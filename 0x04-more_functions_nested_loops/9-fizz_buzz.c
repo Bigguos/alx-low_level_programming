@@ -9,7 +9,6 @@ int main(void)
 
 {
 int n;
-
 n = 1;
 printf("%d", n);
 for (n = 2; n <= 100; n++)
@@ -27,9 +26,10 @@ else if (n % 5 == 0)
 printf(" Buzz");
 }
 else
-{printf(" %d", n);
+{
+printf(" %d", n);
 }
 }
-printf("\n");i
+printf("\n");
 return (0);
 }
