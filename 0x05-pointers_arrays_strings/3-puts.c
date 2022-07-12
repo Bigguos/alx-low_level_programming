@@ -2,16 +2,15 @@
 #include "main.h"
 
 /**
- * _puts - prints a string, followed by a new line, to stdout.
+ * _puts - Prints a string followed by a new line
  * @str: The string to be printed
  * Return: no return
  */
-
 void _puts(char *str)
 {
 	int i = 0;
 
-	while (i >= 1)
+	while (i >= 0)
 	{
 		if (*(str + i) == '\0')
 		{
