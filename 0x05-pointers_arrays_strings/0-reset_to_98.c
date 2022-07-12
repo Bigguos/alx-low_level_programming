@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * reset_to_98 - a function that takes a pointe and updte the value it points to
+ * reset_to_98 - a function that takes a point and update the value
  * @n: the pointer
  * Return: no return
  */
