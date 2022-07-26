@@ -6,9 +6,9 @@
  * Return: 0 - Success
  */
 
-int main(int argc);
+int main(int argc, char *argv[] __attribute__((unused)))
 {
 	int i;
-	printf("argc = %d\n", argc - 1);
+	printf("argc = %d\n", argc);
 	return 0;
 }
