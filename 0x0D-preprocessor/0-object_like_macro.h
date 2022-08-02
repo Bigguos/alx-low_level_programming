@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 #define SIZE 1024
 
 /**
@@ -8,5 +9,7 @@
 
 int main(void)
 {
+	int n = SIZE
+		printf("%d",n);
 	return (0);
 }
