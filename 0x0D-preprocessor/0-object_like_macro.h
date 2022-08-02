@@ -9,7 +9,8 @@
 
 int main(void)
 {
-	int n = SIZE
-		printf("%d",n);
+	int n = SIZE;
+
+		printf("%d\n",n);
 	return (0);
 }
