@@ -1,10 +1,8 @@
 #include "lists.h"
 
  /**
-  *
-  *  * before - print before main.
-  *
-  *   */
+  * before - print before main.
+  */
 
  void before(void) __attribute__ ((constructor));
  void before(void)
