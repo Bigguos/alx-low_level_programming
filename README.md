@@ -1,1 +1,0 @@
-alx varadic function, alx project 
