@@ -1,11 +1,11 @@
-nclude "main.h"
+#include "main.h"
 
 /**
- * get_bit - returns the value of a bit from a given index
- * @n: the number containint the bit
- * @index: the given index
- * Return: the value of the bit at index
- * or -1 if an error occurs
+ * get_bit - returns the value of a bit at a given
+ * index.
+ * @n: unsigned long int input.
+ * @index: index of the bit.
+ * Return: value of the bit.
  */
 
 int get_bit(unsigned long int n, unsigned int index)
@@ -22,5 +22,6 @@ int get_bit(unsigned long int n, unsigned int index)
 			return (n & 1);
 		}
 	}
+
 	return (-1);
 }
